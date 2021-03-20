@@ -1,1 +1,1 @@
-from convertDictToXML import *
+import ConvertDictToXML
