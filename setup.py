@@ -11,7 +11,7 @@ setup(
     author='Daniel Straub',                   # Type in your name
     author_email='danystraub@outlook.de',      # Type in your E-Mail
     # Provide either the link to your github or to your website
-    url='https://github.com/user/reponame',
+    url='https://github.com/eumel0815/ConvertDictToXML',
     # I explain this later on
     download_url='https://github.com/eumel0815/ConvertDictToXML/archive/refs/tags/0.1.tar.gz',
     keywords=['Dictionary', 'XML'],   # Keywords that define your package best
