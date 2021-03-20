@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nachricht>
+	<key1 name="wert" name2="wert2">value1</key1>
+	<key2>value2</key2>
+	<Adressat>
+		<Strasse>Musterstraße</Strasse>
+		<HNR>15</HNR>
+		<Sonderinfos>
+			<bemerkung>keine Bemerkung</bemerkung>
+		</Sonderinfos>
+	</Adressat>
+	<Akten>
+		<Akte>
+			<Metadaten>
+				<Betreff>Test</Betreff>
+			</Metadaten>
+			<Datum>01.01.2021</Datum>
+		</Akte>
+		<Akte>
+			<Metadaten>
+				<Betreff xmlns="abcde">Test2</Betreff>
+			</Metadaten>
+			<Datum>01.01.2021</Datum>
+		</Akte>
+	</Akten>
+</Nachricht>
